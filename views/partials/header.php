@@ -1,0 +1,1 @@
+<div><a href = "admin/index.php"> page admin</a><div>
